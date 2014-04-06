@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<quiz>
+	<quizTitle>quiz2</quizTitle>
+	<quizDescription>descriere2</quizDescription>
+	<question>
+		<task>t1.html</task>
+		<options>
+			<option>Optiune21</option>
+			<option>Optiune22</option>
+			<option>Optiune23</option>
+			<option>Optiune24</option>
+		</options>
+		<correctAnswers></correctAnswers>
+		<answers>
+		</answers>
+		<isCorrect>false</isCorrect>
+		<isCompilable>false</isCompilable>
+	</question>
+</quiz>

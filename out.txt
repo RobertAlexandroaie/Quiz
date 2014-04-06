@@ -1,0 +1,39 @@
+Option.java:12: error: class Optin is public, should be declared in a file named Optin.java
+public enum Optin {
+       ^
+Option.java:25: error: incompatible types
+                return A;
+                       ^
+  required: Option
+  found:    Optin
+Option.java:27: error: incompatible types
+                return B;
+                       ^
+  required: Option
+  found:    Optin
+Option.java:29: error: incompatible types
+                return C;
+                       ^
+  required: Option
+  found:    Optin
+Option.java:31: error: incompatible types
+                return D;
+                       ^
+  required: Option
+  found:    Optin
+Option.java:33: error: incompatible types
+                return E;
+                       ^
+  required: Option
+  found:    Optin
+Option.java:35: error: incompatible types
+                return F;
+                       ^
+  required: Option
+  found:    Optin
+Option.java:37: error: incompatible types
+                return G;
+                       ^
+  required: Option
+  found:    Optin
+8 errors
